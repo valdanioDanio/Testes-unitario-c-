@@ -1,0 +1,6 @@
+C:\Treinamento\Testes Unitarios em c#\Calculadora\Calculadora\bin\Debug\Calculadora.dll
+C:\Treinamento\Testes Unitarios em c#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Treinamento\Testes Unitarios em c#\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Treinamento\Testes Unitarios em c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Treinamento\Testes Unitarios em c#\Calculadora\Calculadora\obj\Debug\Calculadora.dll
+C:\Treinamento\Testes Unitarios em c#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
